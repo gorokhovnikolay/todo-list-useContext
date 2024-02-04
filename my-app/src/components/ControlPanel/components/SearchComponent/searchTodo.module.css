@@ -1,0 +1,6 @@
+.search_input {
+	height: 26px;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid red;
+}

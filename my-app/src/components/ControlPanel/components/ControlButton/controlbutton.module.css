@@ -1,0 +1,7 @@
+.c_button {
+	height: 29px;
+	border-radius: 0px;
+	border: 1px solid red;
+	background: white;
+	cursor: pointer;
+}
